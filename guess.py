@@ -62,8 +62,8 @@ while i == 0:
                             guess_limit -= 1
                             print("You have " + str(guess_limit) + " more")
             if guess_limit == 0 and x == 0:
-                print("You lost the game")
+                print("You've lost the game")
                 break
             else:
-                print("You won the game")
+                print("You've won the game")
             break
