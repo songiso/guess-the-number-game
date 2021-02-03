@@ -65,5 +65,5 @@ while i == 0:
                 print("You've lost the game")
                 break
             else:
-                print("You've won the game")
+                print("You won")
             break
